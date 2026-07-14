@@ -1,0 +1,10 @@
+Durante este curso aprendí que la tecnología es un puente extraordinario para simplificar y potenciar la 
+participación ciudadana, transformando procesos tradicionalmente complejos en acciones ágiles como una 
+"petición en 3 clics". Comprendí la importancia de estructurar correctamente la información mediante 
+modelos de datos claros (causas y apoyos) para mantener la transparencia y permitir un seguimiento real de
+las iniciativas. Asimismo, el uso de herramientas de automatización como n8n y sistemas de notificación 
+automática demostró cómo se pueden optimizar las tareas repetitivas del equipo de veeduría sin perder de 
+vista la seguridad y la privacidad de los usuarios. En conclusión, diseñar soluciones comunitarias requiere 
+un equilibrio crucial: por un lado, interfaces amigables que inviten a participar, y por el otro, políticas 
+estrictas de minimización de datos y protección de la información para construir una plataforma confiable, 
+segura y verdaderamente democrática.

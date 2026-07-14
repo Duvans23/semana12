@@ -1,0 +1,15 @@
+1. Un ciudadano crea una propuesta o causa dentro de la plataforma completando un formulario
+básico.
+
+2. La causa y sus detalles se almacenan de manera estructurada en la base de datos del
+sistema.
+
+3. Otros ciudadanos ingresan a la plataforma, revisan las causas disponibles y registran su
+apoyo con un solo clic.
+
+4. El sistema actualiza de forma automática el contador de apoyos visible para cada causa en
+la interfaz.
+
+5. Al alcanzar la meta de respaldos o cerrarse el plazo, el sistema genera automáticamente 
+un documento formal en formato PDF con la petición consolidada y la lista de apoyos para ser 
+presentado.

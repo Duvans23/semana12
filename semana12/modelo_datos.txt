@@ -1,0 +1,26 @@
+Entidad: Causa
+
+Campos principales:
+id
+titulo
+descripcion
+fecha
+
+Propósito:
+Almacenar de manera estructurada los detalles de las iniciativas o peticiones propuestas 
+por los ciudadanos para que estén visibles y disponibles en la plataforma.
+
+
+
+
+Entidad: Apoyo
+
+Campos principales:
+id
+causa_id
+nombre
+fecha
+
+Propósito:
+Registrar de forma individual el respaldo que cada ciudadano otorga a una causa específica,
+permitiendo vincular el nombre del votante con la iniciativa seleccionada.

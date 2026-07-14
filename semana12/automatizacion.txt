@@ -1,0 +1,12 @@
+1. Evento: La creación de una nueva iniciativa en el sistema (el registro de una nueva fila en la 
+entidad "Causa" de la base de datos), detectada mediante un nodo trigger de n8n.
+
+2. Mensaje:"¡Nueva causa creada en la plataforma!
+                Título: [Título de la causa]
+                Descripción: [Breve descripción]
+            ¡Ingresa al sistema para registrar tu apoyo en un clic!"
+
+3. ¿Información que no debe enviarse: No deben enviarse datos personales del creador de la 
+causa (como números de cédula, direcciones, correos electrónicos o teléfonos), comentarios 
+de carácter confidencial ni credenciales de administración del sistema, para garantizar la 
+privacidad y seguridad de la comunidad en canales externos.
